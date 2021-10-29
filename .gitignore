@@ -1,0 +1,7 @@
+.idea
+dist
+node_modules
+coverage
+/src/assets/test.mkv
+debug.log
+.DS_Store
